@@ -68,6 +68,18 @@ qPACT_assessment_via_VI_studies/
 
 ---
 
+## 🗂 Data Availability
+
+The numerical breast phantom datasets used with this code are **publicly available** via the Illinois Data Bank:
+
+- **Title:** *Anatomy-Matched Multi-Variant Stochastic Optoacoustic Numerical Breast Phantoms and Simulated OAT Measurement Data*  
+- **DOI:** https://doi.org/10.13012/B2IDB-8164905_V1
+
+This repository **does not redistribute the dataset**. Users should download the data directly from the official repository and configure local paths as needed for the provided scripts.
+
+
+---
+
 ## 🔬 Acoustic Reconstruction (Time Reversal)
 
 The folder [`acoustic_reconstruction_time_reversal/`](./acoustic_reconstruction_time_reversal) contains MATLAB code used to generate **3D time-reversal reconstructions** using the *k-Wave* toolbox.
