@@ -24,7 +24,7 @@ The implementation was developed to support the simulation-based studies reporte
 
 ## 🧠 Key Contributions Enabled by This Repository
 
-- A **virtual imaging framework** for evaluating qPACT reconstruction under controlled yet realistic conditions  
+- A **virtual imaging study** for evaluating qPACT reconstruction under controlled yet realistic conditions  
 - End-to-end integration of:
   - numerical acoustic reconstruction,
   - learning-based inference,
